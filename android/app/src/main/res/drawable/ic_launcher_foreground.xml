@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 背景圆 -->
+    <path
+        android:fillColor="#4ade80"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- 音符 ♫ -->
+    <path
+        android:fillColor="#0a0b0f"
+        android:pathData="M42,68V38l24,-4v30" />
+    <!-- 音符圆点 -->
+    <path
+        android:fillColor="#0a0b0f"
+        android:pathData="M38,68a4,4 0,1 0,8 0a4,4 0,1 0,-8 0" />
+    <path
+        android:fillColor="#0a0b0f"
+        android:pathData="M62,64a4,4 0,1 0,8 0a4,4 0,1 0,-8 0" />
+    <!-- 音符横杠 -->
+    <path
+        android:fillColor="#0a0b0f"
+        android:pathData="M42,50l24,-4" />
+</vector>
